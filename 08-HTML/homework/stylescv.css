@@ -1,0 +1,62 @@
+#fotocv {
+    height: 100px;
+    border: 2px solid black;
+    border-radius: 50%;
+}
+.Img {
+    height: 20px;
+}
+header {
+    display: flex;
+    align-items: center;
+
+}
+.datos {
+    margin-top: 10px;
+    font-family: sans-serif;
+    padding-left: 15px;
+    display: flex;
+    flex-direction: column;
+}
+h1 {
+    margin-left: 15px;
+    font-family: sans-serif;
+}
+.encab {
+    display: flex;
+    align-items: center;
+    border: 2px solid black;
+    margin-top: 20px;
+    font-family: sans-serif;
+    padding-left: 15px;
+    background-color: #b2bec3;
+}
+h4 {
+    margin-left: 10px;
+}
+.general {
+    display: flex;
+}
+.valor {
+    margin-left: 40px;
+    margin-top: 10px;
+    font-family: sans-serif;
+    padding-left: 15px;
+    display: flex;
+    flex-direction: column;
+}
+.sub {
+    margin-left: 25px;
+    font-size: 13px;
+    color: #130f40;
+    font-weight: bold;
+}
+li {
+    margin-top: 20px;
+}
+body {
+    background-color: #dfe6e9;
+}
+
+
+
